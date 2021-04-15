@@ -17,3 +17,5 @@ if __name__ == '__main__':
 
     for _ in range(10):
         print(next(iter_pow_2))
+
+        print('test')
